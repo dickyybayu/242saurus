@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+dicky:
+  name: Dicky Bayu Sadewo
+  title: Tech Bro
+  url: https://github.com/dickyybayu
+  image_url: https://github.com/dickyybayu.png
+  page: true
+  socials:
+    github: dickyybayu
+
+ilham:
+  name: Ilham Satya Nusabhakti
+  title: Another Tech Bro
+  url: https://github.com/2021HUMMM
+  image_url: https://media.licdn.com/dms/image/v2/D5603AQE_9L7sY-i77Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693135377671?e=1736380800&v=beta&t=YjBNBY7WKZa_38DRbYYHRoXwMLLTXCKeGwrqrfQR29k
+  page: true
+  socials:
+    github: 2021HUMMM
